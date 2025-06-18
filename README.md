@@ -23,10 +23,10 @@ Cada práctica se encuentra en una **rama diferente**, permitiendo una organizac
 | Rama                | Descripción                                       |
 |---------------------|----------------------------------------------------|
 | `main`              | Información general del proyecto                   |
-| `Modulo_Estados`    | Prácticas sobre estados y patrón MVVM              |
-| `Interfaz_Dinamica` | Interfaces con múltiples vistas o pantallas        |
-| `Conexion_API`      | Actividades con integración de APIs externas       |
-| `Gestor_Notas`      | Proyecto de notas con almacenamiento persistente   |
+| `Actividad_De_Vistas| Interfaces con múltiples vistas o pantallas        |
+| `Notas`             | Proyecto de notas con almacenamiento persistente   |
+| `Transporte urbano` | Actividad de transporte urbano                    |
+| `View Model  `      | Proyecto de notas con almacenamiento persistente   |
 
 ---
 
