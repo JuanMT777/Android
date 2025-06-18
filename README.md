@@ -1,4 +1,4 @@
-🗂 Organización del Repositorio Cada actividad está organizada en una rama individual, lo que permite mantener separados los proyectos sin interferencias entre ellos.
+Organización del Repositorio Cada actividad está organizada en una rama individual, lo que permite mantener separados los proyectos sin interferencias entre ellos.
 
 🔹 Por ejemplo:
 
