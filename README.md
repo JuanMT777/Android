@@ -24,9 +24,9 @@ Cada práctica se encuentra en una **rama diferente**, permitiendo una organizac
 |---------------------|----------------------------------------------------|
 | `main`              | Información general del proyecto                   |
 | `Actividad_De_Vistas| Interfaces con múltiples vistas o pantallas        |
+| `Api_Next` | Actividades con consumo de API                    |
 | `Notas`             | Proyecto de notas con almacenamiento persistente   |
 | `Transporte urbano` | Actividad de transporte urbano                    |
-| `Api_Next` | Actividades con consumo de API                    |
 | `View Model  `      | Proyecto de notas con almacenamiento persistente   |
 
 ---
